@@ -1,3 +1,5 @@
 Hola Julian, bienvenido a la clase de Git y GitHub :)
 
 Espero aprendermuy bien a usar Git y aplicarlo muy buen en mi trabajo cómo developmenter
+
+Estos cambios se realizaron desde la rama LearningGit
